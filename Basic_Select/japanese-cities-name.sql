@@ -1,0 +1,1 @@
+select NAme from city where countrycode = "JPN"
